@@ -1,0 +1,59 @@
+ <!-- footer start -->
+    <footer class="rts-footer rts-footer-padding v_2">
+        <div class="container">
+            <div class="row gy-5 gy-lg-0">
+                <div class="col-lg-5 col-md-6 col-sm-6">
+                    <div class="rts-footer-widget w-320">
+                        <a href="index.html" class="d-block rts-footer-logo mb--40">
+                            <img src="assets/images/logo/logo.png" alt="SHPS Logo">
+                        </a>
+                        <p>
+                            Education is the passport to the future; tomorrow belongs to those who prepare for it today. 
+                        </p>
+                        <div class="rts-contact-link">
+                            <a href="mailto: shpschooledu@gmail.com"><i class="far fa-envelope"></i> shpschooledu@gmail.com </a>
+                            <a href="callto:+918607257200"><i class="fa-thin fa-phone"></i> +91 8607257200</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="rts-footer-widget ">
+                        <h6 class="rt-semi">Quick Links</h6>
+                        <div class="rts-footer-menu">
+                            <ul>
+                                <li><a href="faculty.html">Faculty Staff</a></li>
+                                <li><a href="facility.html">Facilities</a></li>
+                                <li><a href="gallery.html">Gallery</a></li>
+                                <li><a href="vision.html">Our Vision</a></li>
+                                <li><a href="academic-area.html">Academic Area</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-4">
+                    <div class="rts-footer-widget ml--30">
+                        <h6 class="rt-semi">Important Links</h6>
+                        <div class="rts-footer-menu">
+                            <ul>
+                                <li><a href="about.html">About </a></li>
+                                <li><a href="tution-fee.html">Tution Fee</a></li>
+                                <li><a href="MandatoryDisclosure.html">Mandatory Public Disclosure</a></li>
+                                <li><a href="admission.html">Admission Information</a></li>
+                                <li><a href="admission.html#note_for_parents">Important Notes for Parents</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="rts-footer-copy-right v_1">
+        <div class="container">
+            <div class="row">
+                <div class="rt-center">
+                    <p class="--p-xs">Copyright &copy; 2024 All Rights Reserved by SHPS, Jhansa, Kurukshetra</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- footer end -->

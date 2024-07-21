@@ -1,0 +1,62 @@
+<!-- header area start -->
+    <header class="header header__sticky v__2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="header__wrapper">
+                        <div class="header__logo">
+                            <a href="index.html" class="header__logo--link">
+                                <img src="assets/images/logo/logo.png" alt="shps" style="
+                                                                        width: 350px;
+                                                                        height: 90px;
+                                ">
+                            </a>
+                        </div>
+                        <div class="header__menu">
+                            <div class="navigation">
+                                <nav class="navigation__menu">
+                                    <ul>
+                                        <li class="navigation__menu--item has-child has-arrow">
+                                            <a href="about.html" class="navigation__menu--item__link">About</a>
+                                            <ul class="submenu sub__style">
+                                                <li><a href="about.html">About us</a></li>
+                                                <li><a href="vision.html">Our Vision</a></li>
+                                                <li><a href="facility.html">Facilities</a></li>
+                                                <li><a href="faculty.html">Faculty</a></li>
+                                                <li><a href="message.html">Director's Message</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="navigation__menu--item has-child has-arrow">
+                                            <a href="admission.html" class="navigation__menu--item__link">Admissions</a>
+                                            <ul class="submenu sub__style">
+                                                <li><a href="admission.html">Admission</a></li>
+                                                <li><a href="academic-area.html">Academic Area</a></li>
+                                                <li><a href="tution-fee.html">Tution Fee</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="navigation__menu--item">
+                                            <a href="MandatoryDisclosure.html" class="navigation__menu--item__link">Mandatory Disclosure</a>
+                                        </li>
+                                        <li class="navigation__menu--item">
+                                            <a href="gallery.html" class="navigation__menu--item__link">Gallery</a>
+                                        </li>
+                                        <li class="navigation__menu--item">
+                                            <a href="contact.html" class="navigation__menu--item__link">Contact</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="header__right">
+                            <div class="header__right--item">
+                                <div id="menu-btn" class="menu__trigger">
+                                    <img src="assets/images/icon/menu__bar-2.svg" alt="bar">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header area end -->

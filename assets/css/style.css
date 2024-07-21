@@ -15989,6 +15989,7 @@ xclip
 }
 .header.v__2 {
   position: relative;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 @media screen and (max-width: 1200px) {
   .header.v__2 {
