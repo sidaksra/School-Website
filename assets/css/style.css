@@ -18645,40 +18645,15 @@ xclip
   inset: 0;
   content: "";
   background: #f6f6f6;
-  transition: var(--transition);
 }
-.program__single--item:hover::before {
-  opacity: 0;
-}
-.program__single--item:hover .program__single--item--title {
-  color: var(--rt-white);
-}
-.program__single--item:hover .program__single--item--list--item .link__list {
-  color: var(--rt-white);
-  border-color: var(--rt-white);
-}
-.program__single--item:hover .program__single--item--list--item .link__list:hover {
-  border-color: var(--rt-primary-1);
-}
+
 .program__single--item--bg {
   position: absolute;
   inset: 0;
   overflow: hidden;
   z-index: -1;
 }
-.program__single--item--bg::before {
-  position: absolute;
-  inset: 0;
-  content: "";
-  background: rgba(0, 0, 0, 0.7);
-  z-index: 1;
-}
-.program__single--item--bg img {
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  object-position: center top;
-}
+
 .program__single--item.v__2::before {
   position: absolute;
   inset: 0;
